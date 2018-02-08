@@ -1,0 +1,21 @@
+{
+  "name": "publish-cli",
+  "version": "1.0.0",
+  "description": "publish project cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "publish",
+    "cli",
+    "react",
+    "webpack",
+    "nodejs"
+  ],
+  "author": "caizongding",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.14.1"
+  }
+}
